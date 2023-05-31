@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruxisama
-- 👀 I’m interested in learning how to code with javascript
+- 👀 I’m interested in learning how to code with Javascript
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me: ruxi_as@yahoo.com

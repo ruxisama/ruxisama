@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @ruxisama and I’m interested in expanding my knowledge and experience in the field of IT Programming
 - 🦸  Communication skills, Problem Simplification, Fast Learner (always learning 🤯) 
 - 📫 How to reach me: ruxi_as@yahoo.com
-\(▪_▪)
-  ) )z
-  / \
 
 - 🎓 LINK group Education Services
 Java Developer Certification
@@ -20,9 +17,9 @@ Management Informatics and Accountancy | Bucuresti
  relationship with the company's customers and suppliers
 
 Nice to meet you    
-\(▪_▪)
-  ) )z
-  / \
+-\(▪_▪)
+-  ) )z
+-  / \
 
 <!---
 ruxisama/ruxisama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

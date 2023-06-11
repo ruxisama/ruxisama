@@ -7,12 +7,12 @@
 ++English Upper Intermediate Certification
 - 🎓 Bachelor's degree - Athenaeum University Bucuresti
 ++Management Informatics and Accountancy | Bucuresti
-- 👩‍⚕️ Medical Records Administrator - Spitalul Universitar de Urgenta Bucuresti
- Data entry, PM Patient Management System, Medical Statistics, Microsoft Office
-- 💼 Account Manager - Arhitect Space S.R.L.
- Sales - Online Advertising, Customer Service, Client Relationship Manager
+- 👩‍⚕️ Medical Records Administrator for Spitalul Universitar de Urgenta Bucuresti
+ -->Data entry, PM Patient Management System, Medical Statistics, Microsoft Office
+- 💼 Account Manager for Arhitect Space S.R.L.
+ -->Sales - Online Advertising, Customer Service, Client Relationship Manager
 - 💼 Administrator - Imperium Conceptions
- Primary accounting, cost/benefit analysis, time management, risk management, 
+ -->Primary accounting, cost/benefit analysis, time management, risk management, 
  improving the performance of the production and sales department, improving the
  relationship with the company's customers and suppliers
 

@@ -7,7 +7,7 @@
 ++English Upper Intermediate Certification
 - 🎓 Bachelor's degree - Athenaeum University Bucuresti
 ++Management Informatics and Accountancy | Bucuresti
-- 👩‍⚕️ Medical Records Administrator for Spitalul Universitar de Urgenta Bucuresti
+- 💼 Medical Records Administrator for Spitalul Universitar de Urgenta Bucuresti
  ++ Data entry, PM Patient Management System, Medical Statistics, Microsoft Office
 - 💼 Account Manager for Arhitect Space S.R.L.
  ++ Sales - Online Advertising, Customer Service, Client Relationship Manager

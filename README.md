@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @ruxisama and I’m interested in expanding my knowledge and experience in the field of IT Programming
 - 🦸  Communication skills, Problem Simplification, Fast Learner (always learning 🤯) 
 - 📫 How to reach me: ruxi_as@yahoo.com
+\(▪_▪)
+  ) )z
+  / \
 
 - 🎓 LINK group Education Services
 Java Developer Certification

@@ -17,9 +17,9 @@ Management Informatics and Accountancy | Bucuresti
  relationship with the company's customers and suppliers
 
 Nice to meet you    
-- \(▪_▪)
--   ) )z
--   / \
+--\(▪_▪)
+----) )z
+----/ \
 
 <!---
 ruxisama/ruxisama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

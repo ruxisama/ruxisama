@@ -3,10 +3,10 @@
 - 📫 How to reach me: ruxi_as@yahoo.com
 
 - 🎓 LINK group Education Services
--Java Developer Certification
--English Upper Intermediate Certification
+++Java Developer Certification
+++English Upper Intermediate Certification
 - 🎓 Bachelor's degree - Athenaeum University Bucuresti
--Management Informatics and Accountancy | Bucuresti
+++Management Informatics and Accountancy | Bucuresti
 - 👩‍⚕️ Medical Records Administrator - Spitalul Universitar de Urgenta Bucuresti
  Data entry, PM Patient Management System, Medical Statistics, Microsoft Office
 - 💼 Account Manager - Arhitect Space S.R.L.

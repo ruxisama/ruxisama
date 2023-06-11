@@ -16,10 +16,11 @@ Management Informatics and Accountancy | Bucuresti
  improving the performance of the production and sales department, improving the
  relationship with the company's customers and suppliers
 
-Nice to meet you    
---\(▪_▪)
--  -) )z
-- --/ \
+Nice to meet you ![image](https://github.com/ruxisama/ruxisama/assets/58122125/4401ae75-b00c-4f1d-b037-03e3603956e7)
+   
+\(▪_▪)
+  ) )z
+  / \
 
 <!---
 ruxisama/ruxisama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -18,8 +18,8 @@ Management Informatics and Accountancy | Bucuresti
 
 Nice to meet you    
 --\(▪_▪)
-----) )z
-----/ \
+-  -) )z
+- --/ \
 
 <!---
 ruxisama/ruxisama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,9 +4,10 @@
 
 - 🎓 freeCodeCamp.org
 ++ Developer Certification - JavaScript Algorithms and Data Structures
+  
 - 🎓 LINK group Education Services
 ++ Java Developer Certification
-++ English Upper Intermediate Certification
+  
 - 🎓 Bachelor's degree - Athenaeum University Bucuresti
 ++ Economics - Management Informatics and Accountancy | Bucuresti
  

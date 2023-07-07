@@ -6,15 +6,8 @@
 ++Java Developer Certification
 ++English Upper Intermediate Certification
 - 🎓 Bachelor's degree - Athenaeum University Bucuresti
-++Management Informatics and Accountancy | Bucuresti
-- 💼 Medical Records Administrator for Spitalul Universitar de Urgenta Bucuresti
- ++ Data entry, PM Patient Management System, Medical Statistics, Microsoft Office
-- 💼 Account Manager for Arhitect Space S.R.L.
- ++ Sales - Online Advertising, Customer Service, Client Relationship Manager
-- 💼 Administrator - Imperium Conceptions
- ++ Primary accounting, cost/benefit analysis, time management, risk management, 
- improving the performance of the production and sales department, improving the
- relationship with the company's customers and suppliers
+++ Economics - Management Informatics and Accountancy | Bucuresti
+ 
 
 Nice to meet you ![image](https://github.com/ruxisama/ruxisama/assets/58122125/4401ae75-b00c-4f1d-b037-03e3603956e7)
    

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ruxi and I’m interested in expanding my knowledge and experience in the field of IT Programming
-- 🦸  Communication skills, Problem Simplification, Fast Learner (always learning 🤯) 
+- 🦸 Problem Simplification, Fast Learner (always learning 🤯) 
 - 📫 How to reach me: ruxi_as@yahoo.com
 
 - 🎓 freeCodeCamp.org

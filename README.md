@@ -8,8 +8,8 @@
 - 🎓 LINK group Education Services
 ++ Java Developer Certification
   
-- 🎓 Bachelor's degree - Athenaeum University Bucharest
-++ Economics - Management Informatics and Accountancy
+- 🎓 Athenaeum University Bucharest
+++ Bachelor's degree - Economics (Management Informatics and Accountancy)
  
 
 Nice to meet you ![image](https://github.com/ruxisama/ruxisama/assets/58122125/4401ae75-b00c-4f1d-b037-03e3603956e7)

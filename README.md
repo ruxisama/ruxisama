@@ -3,7 +3,7 @@
 - 📫 How to reach me: ruxi_as@yahoo.com
 
 - 🎓 freeCodeCamp.org
-++ Developer Certification - JavaScript Algorithms and Data Structures
+++ Developer Certification - JavaScript Algorithms and Data Structures -- Responsive Web Design
   
 - 🎓 LINK group Education Services
 ++ Java Developer Certification

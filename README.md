@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ruxi and I’m interested in IT Programming
+- 👋 Hi, I’m Ruxi 
 - 🦸 Problem Simplification, Fast Learner (always learning 🤯) 
 - 📫 How to reach me: ruxi_as@yahoo.com
 

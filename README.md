@@ -2,7 +2,7 @@
 - 🦸 Problem Simplification, Fast Learner (always learning 🤯) 
 - 📫 How to reach me: ruxi_as@yahoo.com
 
-- 🎓 freeCodeCamp.org +Developer Certification--JavaScript Algorithms and Data Structures--Responsive Web Design--Relational Database
+- 🎓 freeCodeCamp.org Developer Certification--JavaScript Algorithms and Data Structures--Responsive Web Design--Relational Database
   
 - 🎓 LINK group Education Services
 ++ Java Developer Certification
